@@ -1,4 +1,5 @@
 # cscottnet:hubot
+[![Build Status](https://travis-ci.org/cscott/meteor-hubot.svg?branch=master)](https://travis-ci.org/cscott/meteor-hubot)
 
 This is a Meteor binding for the npm
 [`hubot`](https://www.npmjs.org/package/hubot) package.
