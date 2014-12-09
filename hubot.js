@@ -1,3 +1,5 @@
+var CoffeeScript = Npm.require('coffee-script');
+CoffeeScript.register(); /* needed because hubot is in CoffeeScript */
 var hubot = Npm.require('hubot');
 
 // XXX wrap API so that callbacks get executed inside Meteor environment?
